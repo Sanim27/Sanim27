@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sanim27
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python 🐍
+- 🌱 I'm new to the world of programming...
+- 
 
 
 <!---
