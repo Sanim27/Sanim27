@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sanim27
-- 👀 I’m interested in coding, maybe...
+
 
 
 <!---
