@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanim Pandey</h1>
-<h3 align="center">A passionate AI/ML/DL enthusiast.</h3>
+<h3 align="center">A passionate learner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanim27&label=Profile%20views&color=0e75b6&style=flat" alt="sanim27" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sanim_027" target="blank"><img src="https://img.shields.io/twitter/follow/sanim_027?logo=twitter&style=for-the-badge" alt="sanim_027" /></a> </p>
 
-- 🌱 I’m currently learning **Pytorch,CNN,RNN,Transformers,LSTM.**
+- 🌱 I’m currently learning **LLMs,Rag,FineTuning**
 
 - 💬 Ask me about **Neural Networks, Machine Learning, CNN.**
 
@@ -25,4 +25,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanim27&show_icons=true&locale=en&layout=compact" alt="sanim27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanim27&" alt="sanim27" /></p>
-
