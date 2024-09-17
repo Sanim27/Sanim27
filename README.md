@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanim_027" target="blank"><img src="https://img.shields.io/twitter/follow/sanim_027?logo=twitter&style=for-the-badge" alt="sanim_027" /></a> </p>
 
-- 🌱 I’m currently learning **LLMs,Rag,FineTuning**
+- 🌱 I’m currently learning about **GANs,Transformers,LLMs**
 
 - 💬 Ask me about **Neural Networks, Machine Learning, CNN.**
 
