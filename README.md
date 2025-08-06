@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanim Pandey</h1>
-<h3 align="center">Passionate about Machine Learning, Deep Learning, Linux, and Networking</h3>
+<h3 align="center">Passionate about Linux, Networking, Machine Learning and Deep Learning</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanim27&label=Profile%20views&color=0e75b6&style=flat" alt="sanim27" />
@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 Skilled in **Machine Learning**, **Deep Learning**, **Linux**, **DNS**, and **OSPF**
+- 🔭 Skilled in **Linux**, **Computer Networks**, **Machine Learning**, **Deep Learning**
 - 🔒 Interested in **Cybersecurity**
 - 📫 Reach me at: **sanim.9841@gmail.com**
 
